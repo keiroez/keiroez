@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Izaquiel Queiroz</h1>
-<h3 align="center">master's student in applied computing at PPGIA/UFRPE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kqueiroz" alt="kqueiroz" /> </p>
 
