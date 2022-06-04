@@ -7,36 +7,31 @@
 </p>
 
 ### Hello, World!!
-<div>
-<img align="left" src="https://github.com/keiroez/keiroez/blob/master/cat2.png" height="370em" />
+<div align="center">
+<img src="https://github.com/keiroez/keiroez/blob/master/cat2.png" height="370em" />
 <a href="https://github.com/keiroez">
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keiroez&layout=compact&langs_count=7&theme=dracula"/>
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=keiroez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-  
-## Ferramentas e Tecnologias
+## Tools and Skills
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/> 
 </div>
+
+ <br>
+  
+<div align="center">  
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keiroez&theme=vue)
+
+[![Keiroez's GitHub stats](https://github-readme-stats.vercel.app/api?username=keiroez)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keiroez)](https://github.com/anuraghazra/github-readme-stats)<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="285">
+
+</div> 
+  
+</br>
+
 <p align="center">
-  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500em">
+  
 </p>
+
