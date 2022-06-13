@@ -21,8 +21,6 @@
 <div align="center">  
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keiroez&theme=vue)
-
-[![Keiroez's GitHub stats](https://github-readme-stats.vercel.app/api?username=keiroez)](https://github.com/anuraghazra/github-readme-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keiroez)](https://github.com/anuraghazra/github-readme-stats)<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="285">
 
